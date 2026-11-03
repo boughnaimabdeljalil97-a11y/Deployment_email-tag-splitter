@@ -1,0 +1,6 @@
+{
+  "name": "Tag Splitter",
+  "description": "Interleave and partition session tags across custom lists with duplicate detection and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
